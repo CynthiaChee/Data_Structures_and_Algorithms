@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1015499C-1899-4DEB-A5D2-EA9AFE12C1D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.1P/Vector.cs">
+    <Files>
+      <File FileName="1.1P/Program.cs" Line="1" Column="3" />
+      <File FileName="1.1P/Tester.cs" Line="1" Column="1" />
+      <File FileName="1.1P/Vector.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1.1P" expanded="True">
+            <Node name="1.1P" expanded="True">
+              <Node name="Vector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1.1P PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

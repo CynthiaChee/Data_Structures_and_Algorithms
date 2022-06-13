@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{78E2770D-3DFC-4193-B1F4-3D05B286542C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="8.1/Heap.cs">
+    <Files>
+      <File FileName="8.1/Program.cs" Line="11" Column="8" />
+      <File FileName="8.1/Tester.cs" />
+      <File FileName="8.1/IHeapifyable.cs" />
+      <File FileName="8.1/Heap.cs" Line="255" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="8.1" expanded="True">
+            <Node name="8.1" expanded="True">
+              <Node name="Heap.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.8.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

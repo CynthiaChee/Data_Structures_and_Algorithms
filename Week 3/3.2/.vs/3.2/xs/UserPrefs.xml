@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4214E31F-0C8C-45D8-9026-CF0775462D63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.2/MergeSortBottomUp.cs">
+    <Files>
+      <File FileName="3.2/Tester.cs" Line="184" Column="40" />
+      <File FileName="3.2/Program.cs" />
+      <File FileName="3.2/Vector.cs" />
+      <File FileName="3.2/ISorter.cs" />
+      <File FileName="3.2/RandomizedQuickSort.cs" />
+      <File FileName="3.2/MergeSortTopDown.cs" />
+      <File FileName="3.2/MergeSortBottomUp.cs" Line="15" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.2" expanded="True">
+            <Node name="3.2" expanded="True">
+              <Node name="MergeSortBottomUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

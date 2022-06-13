@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{78B95E75-A989-4DA9-A722-0A3146A1050A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.1/Tester.cs">
+    <Files>
+      <File FileName="3.1/Program.cs" Line="13" Column="1" />
+      <File FileName="3.1/Tester.cs" Line="36" Column="58" />
+      <File FileName="3.1/Vector.cs" Line="1" Column="1" />
+      <File FileName="3.1/ISorter.cs" Line="1" Column="1" />
+      <File FileName="3.1/BubbleSort.cs" Line="8" Column="6" />
+      <File FileName="3.1/InsertionSort.cs" />
+      <File FileName="3.1/SelectionSort.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.1" expanded="True">
+            <Node name="3.1" expanded="True">
+              <Node name="Tester.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
